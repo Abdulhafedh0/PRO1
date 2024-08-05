@@ -16,7 +16,7 @@ include("header.html");
     This is the About page <br>
     here is the stuffe of  the About page <br>
 
-    <img src="https://i.pinimg.com/564x/25/c0/58/25c058b89a84e9a7c221964948c12beb.jpg" alt="">
+    <img src="https://i.pinimg.com/736x/2f/da/4b/2fda4bb2f061b21b541d5bcd2304ce62.jpg" alt="">
 </body>
 </html>
 <?php

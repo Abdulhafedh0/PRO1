@@ -16,7 +16,7 @@ include("databaise.php")
 <body>
     This is the Home page <br>
     here is the stuffe about  the home page <br>
-    <img src="https://i.pinimg.com/736x/77/bd/20/77bd20d021bf2ec7fe048165f1c816b8.jpg" alt="">
+    <img src="https://i.pinimg.com/564x/d3/89/82/d38982baa24cf9721e50ee6f2cb42423.jpg" alt="">
 </body>
 </html>
 <?php

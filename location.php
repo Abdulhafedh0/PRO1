@@ -15,7 +15,7 @@ include("header.html");
 <body>
     This is the Locations page <br>
     here is the stuffe of  the Locations page <br>
-    <img src="https://i.pinimg.com/564x/ed/bc/40/edbc40c892d30faac15a845a3cf7f0c5.jpg" alt="">
+    <img src="https://i.pinimg.com/564x/e6/39/29/e639291e6f24d22a06160618483421ff.jpg" alt="">
 </body>
 </html>
 <?php
