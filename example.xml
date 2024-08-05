@@ -1,0 +1,15 @@
+<products>
+<product1>
+<name>shampoo</name>
+<cost>50$</cost>
+<suppler>dikson</suppler>
+</product1>
+
+
+<product2>
+<name>shampoo</name>
+<cost>50$</cost>
+<suppler>dikson</suppler>
+</product2>
+
+</products>
